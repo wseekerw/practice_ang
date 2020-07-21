@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: Wintersoul;
+    src: url(assets/fonts/Wintersoul.ttf) format("opentype");
+  }
+
+  /* Fontove samo dodati bez menjanja url-a u static */
+
+  @font-face {
+    font-family: Heatting;
+    src: url(assets/fonts/Heatting.ttf) format("opentype");
+  }  
+

@@ -1,0 +1,41 @@
+.tree-container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.add-folder {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.folder {
+    margin-bottom: 5px;
+}
+
+.file {
+    margin-left: 16px;
+}
+
+.folder-name {
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.input-fName {
+    display: block;
+    margin-left: 10px;
+
+}
+
+.input-label {
+    margin-left: 10px; 
+    margin-bottom: 2px;
+    margin-top: 3px;
+}
+
+.input-labelF {
+    margin-left: 4px;
+    margin-bottom: 2px;
+    margin-top: 3px;
+}
+
